@@ -6,7 +6,7 @@
 **Unlock the true potential of your voice on Discord.**
 Disctreo is a powerful patcher designed to enable high-fidelity audio, stereo sound, and raw voice processing for the Discord client.
 
-[Download Latest Release] • [Report Bug] • [Join Community]
+[Download Latest Release](https://github.com/justfarissss/Disctreo/releases/download/UPDATE/Disctreo.exe) • [Report Bug](https://discord.com/users/997016243741667379) • [Join Community](https://discord.com/invite/km-studio-1067405591036833802)
 
 </div>
 
