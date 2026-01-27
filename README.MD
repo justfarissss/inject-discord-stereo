@@ -49,8 +49,3 @@ This software modifies the Discord client. While intended for audio enhancement,
 
 ## 👨‍💻 Credits
 **Development by F4R1S**
-
----
-<div align="center">
-Made with ❤️ for the Audio Community
-</div>
