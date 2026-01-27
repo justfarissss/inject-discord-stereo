@@ -17,6 +17,7 @@ Disctreo allows you to bypass standard Discord audio limitations. Whether you ar
 
 ## ✨ Key Features
 
+* **🔊 High Bitrate Bypass** - Force enable up to **512kbps** audio bitrate, perfect for musicians requiring crystal clear fidelity.
 * **🎧 True Stereo Support** - Enable full stereo audio transmission directly through Discord.
 * **💎 Voice Lossless** - Experience uncompressed, high-fidelity audio quality.
 * **🎙️ RAW Voice** - Bypass software processing for pure, unaltered microphone input.
@@ -26,10 +27,11 @@ Disctreo allows you to bypass standard Discord audio limitations. Whether you ar
     * Discord Stable
     * Discord Canary
     * Discord PTB
+    * Discord Development
 
 ## 🚀 How to Use
 
-1.  **Launch Disctreo**.
+1.  **Launch Disctreo** (Run as Administrator recommended).
 2.  Wait for the **"Disctreo Engine initialized..."** log.
 3.  Select your **Target Client** from the dropdown menu (e.g., Discord, Canary).
 4.  Click the big green **PATCH NOW** button.
