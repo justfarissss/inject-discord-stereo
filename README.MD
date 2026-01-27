@@ -26,11 +26,10 @@ Disctreo allows you to bypass standard Discord audio limitations. Whether you ar
     * Discord Stable
     * Discord Canary
     * Discord PTB
-    * Discord Development
 
 ## 🚀 How to Use
 
-1.  **Launch Disctreo** (Run as Administrator recommended).
+1.  **Launch Disctreo**.
 2.  Wait for the **"Disctreo Engine initialized..."** log.
 3.  Select your **Target Client** from the dropdown menu (e.g., Discord, Canary).
 4.  Click the big green **PATCH NOW** button.
