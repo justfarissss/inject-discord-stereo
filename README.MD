@@ -1,9 +1,7 @@
 <div align="center">
 
-# ![Disctreo Icon](https://www.justfarissss.xyz/Icon-Disctreo.png) DISCTREO v2.0
+# <img src="https://www.justfarissss.xyz/Icon-Disctreo.png" height="32" valign="middle" alt="Disctreo Icon"/> DISCTREO v2.0
 ### Empowering Discord with Studio Quality
-
-![Disctreo Banner](https://www.justfarissss.xyz/UI-Disctreo.png)
 
 **Unlock the true potential of your voice on Discord.**
 Disctreo is a powerful patcher designed to enable high-fidelity audio, stereo sound, and raw voice processing for the Discord client.
@@ -41,9 +39,10 @@ Disctreo allows you to bypass standard Discord audio limitations. Whether you ar
 
 ## 📸 Screenshots
 
-| Main Interface |
-|:---:|
-| ![Interface](https://www.justfarissss.xyz/UI-Disctreo.png) |
+<div align="center">
+  <img src="https://www.justfarissss.xyz/UI-Disctreo.png" width="60%" alt="Disctreo Main Interface"/>
+  <p><i>Main Interface</i></p>
+</div>
 
 ## ⚠️ Disclaimer
 This software modifies the Discord client. While intended for audio enhancement, use it at your own discretion. The developer is not responsible for any account limitations imposed by Discord.
