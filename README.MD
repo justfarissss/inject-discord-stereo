@@ -27,7 +27,6 @@ Disctreo allows you to bypass standard Discord audio limitations. Whether you ar
     * Discord Stable
     * Discord Canary
     * Discord PTB
-    * Discord Development
 
 ## 🚀 How to Use
 
