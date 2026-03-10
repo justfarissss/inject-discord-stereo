@@ -1,0 +1,6 @@
+.venv
+build
+Disctreo.ico
+Disctreo.py
+Disctreo.spec
+requirements.txt
