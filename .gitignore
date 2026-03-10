@@ -4,3 +4,8 @@ dist/
 *.spec
 __pycache__/
 .vscode/
+Disctreo.exe
+Disctreo.ico
+Disctreo.py
+Disctreo.spec
+requirements.txt
