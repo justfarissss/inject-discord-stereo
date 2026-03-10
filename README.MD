@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://www.justfarissss.xyz/Icon-Disctreo.png" height="32" valign="middle" alt="Disctreo Icon"/> DISCTREO v2.0
+# <img src="https://www.justfarissss.my.id/Icon-Disctreo.png" height="32" valign="middle" alt="Disctreo Icon"/> DISCTREO v2.0
 ### Empowering Discord with Studio Quality
 
 **Unlock the true potential of your voice on Discord.**
@@ -40,7 +40,7 @@ Disctreo allows you to bypass standard Discord audio limitations. Whether you ar
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://www.justfarissss.xyz/UI-Disctreo.png" width="60%" alt="Disctreo Main Interface"/>
+  <img src="https://www.justfarissss.my.id/UI-Disctreo.png" width="60%" alt="Disctreo Main Interface"/>
   <p><i>Main Interface</i></p>
 </div>
 
